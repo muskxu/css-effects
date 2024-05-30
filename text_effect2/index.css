@@ -37,10 +37,13 @@ html, body {
   background-position: 0 70px;
 }
 
-/* 线2变化 */
+/* 
+  线2变化 
+    transparent 为透明分界线
+*/
 .underLine2 {
   background: linear-gradient(90deg, white 50%, transparent 0) repeat-x;
-  background-size: 6px 8px;
+  background-size: 10px 6px;
   background-position: -300px 70px;
 }
 
