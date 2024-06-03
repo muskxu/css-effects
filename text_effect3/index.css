@@ -20,7 +20,8 @@ html, body {
   text-align: center;
   width: 200px;
   height: 50px;
-  background: radial-gradient(circle at 28px -17px, transparent 20px, currentColor 20px, currentColor 22px, transparent 22px) repeat-x,
-    radial-gradient(circle at 28px 20px, transparent 20px, currentColor 20px, currentColor 22px, transparent 22px) repeat-x;
+  background: radial-gradient(circle at 25px -17px, transparent 20px, currentColor 20px, currentColor 22px, transparent 22px) repeat-x,
+    radial-gradient(circle at 25px 20px, transparent 20px, currentColor 20px, currentColor 22px, transparent 22px) repeat-x;
   background-size: 50px 50px;
+  background-position: 10px 20px, 15px 30px;
 }
